@@ -1,0 +1,5 @@
+2+7
+Number of epochs:	10
+Batch size:	4
+Keep_prob:	0.5
+Learning rate:	0.0001
