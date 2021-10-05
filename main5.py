@@ -7,6 +7,7 @@ import warnings
 from distutils.version import LooseVersion
 import project_tests as tests
 
+
 def load_vgg(sess, vgg_path):
     """
     Load Pretrained VGG Model into TensorFlow.
